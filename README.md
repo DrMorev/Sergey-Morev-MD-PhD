@@ -34,6 +34,19 @@ Independent researcher in AI evaluation and human-AI interaction
 
 ---
 
+### LONG-TAIL KEYWORDS
+
+- Clinical AI safety assessment  
+- AI reliability testing
+- Healthcare LLM deployment
+- Medical AI compliance
+- LLM drift detection
+- Model behavior stability
+- AI audit protocols
+- Evaluation test suites
+- LLM behavior evaluation
+- Safety qualification framework
+
 ### Open to
 
 Research collaborations • Consulting • Advisory roles • Speaking
