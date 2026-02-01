@@ -55,7 +55,7 @@ Independent researcher in AI evaluation and human-AI interaction
 
 ---
 
-### Current Work
+### Areas of Interest
 
 - Clinical AI safety evaluation frameworks
 - Mental health research: AI companions for isolated workers
@@ -78,6 +78,6 @@ Independent researcher in AI evaluation and human-AI interaction
 
 ### Open to
 
-Research collaborations • Consulting • Advisory roles • Speaking
+Research collaborations • Advisory roles • Speaking
 
 📧 smorev.research@gmail.com
