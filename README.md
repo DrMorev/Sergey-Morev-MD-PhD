@@ -1,83 +1,67 @@
-# Sergey-Morev-MD-PhD
-Researcher | Healthcare AI | Human-AI Interaction | Pharmacovigilance background | Writing | AI Evaluation
+# Sergey Morev, MD/PhD
 
-Building frameworks for trustworthy AI in healthcare and high-stakes environments.
+**Transportation & Logistics (New Brunswick, Canada)**
 
----
+Medical background (MD/PhD) with 6+ years in pharmacovigilance and drug safety.
 
-### Focus
+Personal open-source interest: **reliability, evaluation, and safety in technology — especially where AI meets healthcare and other medical safety-sensitive domains.**
 
-**AI & Healthcare Reliability**  
-Evaluation methodologies • Safety frameworks • Drift detection • Audit protocols
+> **Disclaimer:** Personal, non-commercial open-source research only.
 
-**Human-AI Interaction Research**  
-Digital hygiene • Isolated workers • Companion AI safety • Interaction patterns
+-----
 
-**Medical Technology Assessment**  
-Evidence-based evaluation • Risk mapping • Qualification frameworks
+## Areas of interest
 
----
+### Reliability & Evaluation in Safety-Sensitive Systems
+- Evaluation methodologies and reproducible test suites
+- Safety and robustness qualification gates
+- Drift detection and behavior stability monitoring
+- Audit-friendly artifacts: checklists, rubrics, decision logs
 
-### My AI Research Workflow: Cross-Platform Agentic Architecture
-I employ a human-led, cross-platform agentic research workflow designed to ensure rigor, safety, and reproducibility in high-stakes AI research.
-Rather than relying on a single model or perspective, I use a distributed, role-based evaluation pipeline, where frontier LLMs are treated as specialized computational components, each constrained to a clearly defined function.
-All synthesis, prioritization, and final decisions remain under explicit human control.
-Core Workflow Layers
-1. Research & Methodology Validation
-Scientific framing and positioning within existing literature gaps
-Methodological sanity checks for N=1, longitudinal, and case-based designs
-Cross-model triangulation to reduce single-source bias and hallucinations
-2. Technical Development & System Architecture
-Refactoring experimental logic into production-grade, documented codebases
-Design of modular external reasoning scaffolds (e.g., Modular Reasoning Framework)
-Interface, API, and artifact consistency checks
-3. Safety, QA & Compliance (Adversarial Review Layer)
-Systematic stress-testing of safety boundaries and failure modes
-Pharmacovigilance-inspired audit logic applied to LLM behavior
-Strict Definition-of-Done (DoD) gates before any artifact is finalized
-4. Strategic Orchestration & Oversight (Human PI Control)
-Scope management and prevention of uncontrolled feature expansion
-Cross-architecture output auditing to detect instability and drift
-Final synthesis, judgment, and accountability retained by the researcher
-Why Cross-Platform?
-Specialization: Different model architectures excel at different tasks (reasoning, nuance, robustness).
-Behavioral Analysis: Comparing responses across models is critical for AI Safety research.
-Redundancy: Prevents hidden failure modes caused by single-model drift or bias.
-This workflow is intentionally designed as a reproducible research system, not as conversational or companion-based interaction.
+### Architecture Comparison & Reasoning Approaches
+- Decision frameworks for choosing between system architectures (LLM-centric, world-model-based, hybrid closed-loop)
+- Structured reasoning aids for language models
+- Tradeoff analysis: cost-of-error, latency, verification constraints
 
----
+### Human–AI Interaction & Digital Hygiene
+- Interaction patterns, boundary-setting, and safe use frameworks
+- Risk modes in companion-style AI (dependency, over-trust, erosion of autonomy)
+- Occupationally isolated workers: patterns of use and patterns of harm
 
-### Background
+### Medical Technology Assessment (mindset)
+- Evidence-based evaluation and structured risk mapping
+- Post-claim qualification: “claims ≠ clearance”
+- Reproducible protocols over demo theater
 
-MD/PhD — Pediatric surgery, rheumatology  
-6+ years pharmacovigilance and drug safety  
-Independent researcher in AI evaluation and human-AI interaction
+-----
 
----
+## How I work (human-led, independent cross-checking)
 
-### Areas of Interest
+1. **Method sanity checks** — framing, assumptions, failure modes; independent cross-checking for consistency
+1. **Engineering discipline** — prototypes refactored into documented, testable artifacts; stable interfaces and minimal reproducible examples
+1. **Adversarial QA** — stress tests for unsafe behavior, hallucinated outputs, and format brittleness; “definition-of-done” gates before publishing
+1. **Human oversight** — scope control, final synthesis, and accountability stay with me
 
-- Clinical AI safety evaluation frameworks
-- Mental health research: AI companions for isolated workers
-- Writing on digital hygiene and human-AI boundaries
+This is a **reproducible evaluation workflow**, not a companion-style interaction.
 
----
+-----
 
-### LONG-TAIL KEYWORDS
+## Background (high level)
+- **MD/PhD** — pediatric surgery, rheumatology (training background)
+- **6+ years** — pharmacovigilance, drug safety, real-world evidence
+- **Current role** — transportation and logistics (Canada)
+- **Ongoing personal interest** — AI evaluation, human–AI interaction, open-source research
 
-- Clinical AI safety assessment  
-- AI reliability testing
-- Healthcare LLM deployment
-- Medical AI compliance
-- LLM drift detection
-- Model behavior stability
-- AI audit protocols
-- Evaluation test suites
-- LLM behavior evaluation
-- Safety qualification framework
+-----
 
-### Open to
+## Open to (non-commercial)
+- Open-source collaboration (personal time)
+- Research discussion and peer review
+- Writing and speaking (unpaid) on topics above
 
-Research collaborations • Advisory roles • Speaking
+*Commercial or paid engagements are not available at this time.*
 
+-----
 📧 smorev.research@gmail.com
+
+<sub>ai evaluation · reliability testing · healthcare ai safety · llm behavior stability · drift detection · audit protocols · pharmacovigilance · digital hygiene · human-ai interaction · architecture comparison · reasoning frameworks</sub>
