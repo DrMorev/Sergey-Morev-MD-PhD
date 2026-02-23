@@ -37,10 +37,10 @@ Personal open-source interest: **reliability, evaluation, and safety in technolo
 
 ## How I work (human-led, independent cross-checking)
 
-1. **Method sanity checks** — framing, assumptions, failure modes; independent cross-checking for consistency
-1. **Engineering discipline** — prototypes refactored into documented, testable artifacts; stable interfaces and minimal reproducible examples
-1. **Adversarial QA** — stress tests for unsafe behavior, hallucinated outputs, and format brittleness; “definition-of-done” gates before publishing
-1. **Human oversight** — scope control, final synthesis, and accountability stay with me
+1. **Method sanity checks** - framing, assumptions, failure modes; independent cross-checking for consistency
+1. **Engineering discipline** - prototypes refactored into documented, testable artifacts; stable interfaces and minimal reproducible examples
+1. **Adversarial QA** - stress tests for unsafe behavior, hallucinated outputs, and format brittleness; “definition-of-done” gates before publishing
+1. **Human oversight** - scope control, final synthesis, and accountability stay with me
 
 This is a **reproducible evaluation workflow**, not a companion-style interaction.
 
