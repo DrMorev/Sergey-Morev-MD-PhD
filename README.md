@@ -4,7 +4,7 @@
 
 Medical background (MD/PhD) with 6+ years in pharmacovigilance and drug safety.
 
-Personal open-source interest: **reliability, evaluation, and safety in technology — especially where AI meets healthcare and other medical safety-sensitive domains.**
+Personal open-source interest: **reliability, evaluation, and safety in technology - especially where AI meets healthcare and other medical safety-sensitive domains, AI compliance and regulations.**
 
 > **Disclaimer:** Personal, non-commercial open-source research only.
 
