@@ -47,10 +47,10 @@ This is a **reproducible evaluation workflow**, not a companion-style interactio
 -----
 
 ## Background (high level)
-- **MD/PhD** — pediatric surgery, rheumatology (training background)
-- **6+ years** — pharmacovigilance, drug safety, real-world evidence
-- **Current role** — transportation and logistics (Canada)
-- **Ongoing personal interest** — AI evaluation, human–AI interaction, open-source research
+- **MD/PhD** - pediatric surgery, rheumatology (training background)
+- **6+ years** - pharmacovigilance, drug safety, real-world evidence
+- **Current role** - transportation and logistics (Canada)
+- **Ongoing personal interest** - AI evaluation, human–AI interaction, open-source research
 
 -----
 
