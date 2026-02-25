@@ -33,7 +33,6 @@ Deterministic boundaries for probabilistic models before they touch real-world w
 - Method sanity checks: framing, assumptions, failure modes; independent cross-checking
 - Engineering discipline: prototypes → documented, testable artifacts; stable interfaces; minimal reproducible examples
 - Adversarial QA: stress tests for unsafe behavior, hallucinated actions, and format brittleness; definition-of-done gates
-- Note: This is a reproducible evaluation workflow focused on system safety (not companion-style interaction).
 
 ---
 
