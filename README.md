@@ -5,7 +5,7 @@
 **Scope:** Personal, non-commercial open-source research only.
 
 ### Focus
-Deterministic boundaries for probabilistic models before they touch real-world workflows.
+Deterministic boundaries for probabilistic models before they touch real-world workflows. I frame clinical AI monitoring as AI Vigilance applying pharmacovigilance logic to runtime model behavior.
 
 ---
 
