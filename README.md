@@ -27,6 +27,16 @@ Deterministic boundaries for probabilistic models before they touch real-world w
 - Hard tradeoffs: latency budgets, verification independence, cost-of-error
 - Reasoning orchestration patterns (Plan → Execute → Verify) for lightweight/edge settings
 
+
+## Selected projects
+
+- **CASEF** Clinical AI Safety Evaluation Framework for reproducible, artifact-based qualification of LLM behavior under explicit constraints.
+
+- **EBAC-T4**  deterministic trace-bound authorization gate for high-risk EHR writes.
+
+- **Clinical Verifiable Gates**  medical verifier kernel using extractor contracts, UNKNOWN-by-default fields, and deterministic PASS / BLOCK / ABSTAIN adjudication.
+
+- **LLM / World Model / Hybrid Decision Frame** — architecture decision protocol for choosing system design under risk, latency, and verification constraints.
 ---
 
 ## How I do my research (independent & verifiable)
@@ -37,7 +47,9 @@ Deterministic boundaries for probabilistic models before they touch real-world w
 ---
 
 ## Availability (non-commercial only)
-Open to: open-source collaboration (personal time), research discussion / peer review, unpaid writing & speaking.  
+
+Open to open-source collaboration, research discussion, peer review, and unpaid writing/speaking where appropriate.
+
 Commercial or paid engagements are not available at this time.
 
 srgmorev@gmail.com
